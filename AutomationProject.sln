@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomationInfra", "TibaAutomation\AutomationInfra.csproj", "{C91C5361-CBCC-45A2-B7C8-633D5C12D2A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject", "TestProject\TestProject.csproj", "{54DE6E6E-3F8A-48A3-A424-8BA1DCE70516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C91C5361-CBCC-45A2-B7C8-633D5C12D2A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91C5361-CBCC-45A2-B7C8-633D5C12D2A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91C5361-CBCC-45A2-B7C8-633D5C12D2A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91C5361-CBCC-45A2-B7C8-633D5C12D2A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54DE6E6E-3F8A-48A3-A424-8BA1DCE70516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DE6E6E-3F8A-48A3-A424-8BA1DCE70516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DE6E6E-3F8A-48A3-A424-8BA1DCE70516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DE6E6E-3F8A-48A3-A424-8BA1DCE70516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDEB34FF-533A-4F6A-B221-1B5600B61578}
+	EndGlobalSection
+EndGlobal
